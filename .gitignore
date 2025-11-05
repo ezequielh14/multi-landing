@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Build output
+dist/
+.vercel/
+
+# Archivos del entorno local
+.env
+.env.local
+*.log
+
+# Archivos del editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
